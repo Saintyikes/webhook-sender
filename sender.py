@@ -20,4 +20,4 @@ def send_webhook(url, payload, max_retries=5):
     return False
 
 # Example usage
-send_webhook("https://webhook.site/036e3066-b18a-49f5-9927-3e1a61825e88", {"message": "hello from Yinka"})
+send_webhook("https://webhook.site/755b2a7d-2d9a-487a-957f-24f07c165865", {"message": "hello from Yinka"})
