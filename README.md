@@ -10,9 +10,9 @@ A Python project that sends webhooks with automatic retries using exponential ba
 - Exponential backoff (1s, 2s, 4s, 8s...)
 - Easy to extend with a queue system
 
-![Screenshot](screenshot 1.png)
-![Screenshot](screenshot 2.png)
-![Screenshot](screenshot 3.png)
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
 
 ## How to Run
 ```bash
